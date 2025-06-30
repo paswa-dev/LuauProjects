@@ -1,0 +1,2 @@
+# What is this?
+This was a space game before the Helldivers 2 game actually came out. I did not finish this, but the barebones of this project stand and might be interesting to see how it was structured. This is in complete pieces so it will not work if you try to run it.
