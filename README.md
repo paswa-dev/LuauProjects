@@ -16,5 +16,5 @@
 8. UnfinishedPrototypeWeaponSystem.luau
   - Super good for starters, heavily unfinished viewmodel system for a weapon system. This one copies Tarkov's recoil patterns by using the mouse location as a LookVector, well, a "virual" mouse location. If you read the code you'll understand what I mean.
 
-# I am a proud contributor to the Fireteam development team. Kongo I hope the game goes well.
+# I am a proud contributor and helper to the Fireteam development team. Kongo I hope the game goes well.
 <img width="773" alt="image" src="https://github.com/user-attachments/assets/5850eb79-cc1f-45fe-b650-20f7fc51a398" />
