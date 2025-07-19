@@ -15,6 +15,9 @@
   - Interesting way of managing objects in the world.
 8. UnfinishedPrototypeWeaponSystem.luau
   - Super good for starters, heavily unfinished viewmodel system for a weapon system. This one copies Tarkov's recoil patterns by using the mouse location as a LookVector, well, a "virual" mouse location. If you read the code you'll understand what I mean.
+9 Train.luau
+  - Interesting train system, requires 2 modules, Cat-mull Splines and GoodSignal. Does have an edge case that was fixed in the actual production stage of the game; however, I released this unmodified version because it is not subject to copyright.
+  - The edge case occurred on sharp parts of the track. To simply fix this, you would need to sample 2 points on the track instead of 1 per cart, then find the unit vector between those 2 points and use that. Whereas this version samples 1 unit vector, which is the tangent of the point on the curve.
 
 # Proud helper to the Fireteam/Swagteam77 development team. Kongo, I hope the game goes well.
 <img width="773" alt="image" src="https://github.com/user-attachments/assets/5850eb79-cc1f-45fe-b650-20f7fc51a398" />
